@@ -1,0 +1,12 @@
+.select.cancel {
+  color: red;
+}
+.select.completed {
+  color: green;
+}
+.select.inprogress {
+  color: yellowgreen;
+}
+.select.upcoming {
+  color: orchid;
+}
